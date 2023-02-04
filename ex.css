@@ -1,0 +1,243 @@
+
+.start{
+    display: grid;
+    background-image: url(xrpl-twitter-card.png);
+    margin: 0 0 0 0;
+    position: absolute;
+    /* background-attachment:local; */
+    width: 100%;
+    height: 200%;
+    background-repeat: repeat;
+}
+
+*{margin: 0;
+padding: 0;}
+
+.side{
+    display: inline-block;
+    background-color: black;
+    width: 15%;
+    height:100%;
+    position:fixed;
+
+    /* margin: 0; */
+    /* padding: 20px; */
+    text-align: center;
+    overflow: hidden;
+    /* position: auto; */
+}
+
+.name{
+    border-radius: 5%;
+    color: antiquewhite;
+    background-color:#960196;
+    font-size: large;
+    padding: 10px 0 5px 0;
+    margin: 0;
+    /* position: fixed; */
+    width: 100%;
+    height: 30px;
+
+}
+.home{
+    font-size: xx-large;
+    color: beige;
+    text-decoration: none;
+}
+.facebook{
+   text-decoration: none;   
+   color:rgb(149, 1, 168);
+   border: wheat 6px;
+    padding: 20% 0 0 0; 
+    font-size: x-large;
+    font-family:Monospace;
+    margin:20% 0 0 0;
+}
+.facebook:hover{
+    font-size: xx-large;
+}
+
+
+
+.instagram{
+    text-decoration:none;
+    color:rgb(149, 1, 168);
+    padding: 20% 0 0 0; 
+    margin:20% 0 0 0;
+
+    /* padding: 30px; */
+    font-size: x-large;
+    font-family:Monospace;
+}
+.instagram:hover{
+    font-size: xx-large;
+}
+
+.email{
+    text-decoration:none;
+    color:rgb(149, 1, 168);
+    padding: 20% 0 0 0; 
+    margin:20% 0 0 0;
+    /* padding: 30px; */
+    font-size: x-large;
+    font-family:Monospace;
+}
+
+.email:hover
+{
+   font-size: xx-large;
+}
+
+.tel{
+    text-decoration:none;
+    color:rgb(149, 1, 168);
+    margin:20% 0 0 0;
+    padding: 20% 0 0 0; 
+    /* padding: 30px; */
+    font-size: x-large;
+    font-family:Monospace;
+}
+
+.tel:hover{
+    font-size: xx-large;
+}
+
+.inf{
+    padding-top: 0;
+    color: aliceblue;
+}
+
+/* ////////////////////////////////////////////////////////////// */
+
+
+
+.up{
+    background-color: rgb(0, 0, 0);
+    top: 0;
+    width: 85%;
+    height: 50px;
+    margin: 0 0 0 15%;
+    position: fixed;
+    display: inline-block;
+    z-index: 5;
+    /* overflow: hidden; */
+}
+
+.search{
+    display: inline-block;
+    text-align: center;
+    border-radius: 20px;
+    margin-left: 30%;
+    color: aliceblue;
+    border: white;
+    margin: top 0;
+    width: 40%;
+    height: 70%;
+    color: blueviolet;
+    padding:center;
+    position: absolute;
+}
+.logo{
+    display: inline-block;
+   color: green;
+   text-align: right;
+   margin-left: 90% ;
+   margin-top: 1.5%;
+   position: absolute;
+}
+
+.un{
+    display: inline-block;
+
+    margin-left: 3% ;
+   margin-top: 1%;
+    color: aliceblue;      
+    /* padding: 10px 10px 0 0; */
+     font-size: x-large;
+     text-decoration: none;
+     /* text-align:start; */
+   
+     position: absolute;
+
+}
+
+.about{
+    display: inline-block;
+    font-size:x-large;
+   margin-top: 1%;
+    margin-left: 19%;
+    text-decoration: none;
+    position: absolute;
+color: aliceblue;
+}
+
+.w{
+    color: aliceblue;
+    border: black;
+    /* background-color: gray; */
+    margin-top: 10%;
+    margin-left: 20%;
+    width: 40%;
+    height: 30%;
+    position: absolute;
+}
+.submit{
+    padding: 2% 10% 2% 10%;
+    margin-top: 0;
+    background-color: blueviolet;
+     margin-left: 15%;
+     display: inline-block;
+    position: absolute;
+    border-radius: 10%;
+
+}
+.write{
+    width: 50%;
+    height: 35%;
+    display: inline-block;
+    color: blueviolet;
+    position: absolute;
+    text-align: center;
+    margin: 35% 0 0 30%;
+    font-size: xx-large;
+
+}
+
+.b{
+    width: 25%;
+    height:25%;
+    display: inline-block;
+    position:absolute;
+}
+
+.b:hover{
+bottom: 5%;
+}
+
+.b1{
+    border:rgb(88, 3, 88) solid 1px;
+    border-radius: 40px;
+    background:url(eeeee.jpg);
+    margin-top: 60%;
+    margin-left: 17%;
+}
+
+
+.b2{
+    border:rgb(88, 3, 88) solid 1px;
+    border-radius: 40px;
+    background:url(eeeee.jpg);
+    margin-top: 60%;
+    margin-left: 45%;
+}
+
+
+.b3{
+    border:rgb(88, 3, 88) solid 1px;
+    border-radius: 40px;
+    background:url(eeeee.jpg);
+    margin-top: 60%;
+    margin-left: 73%;
+}
+
+
